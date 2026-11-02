@@ -1,8 +1,7 @@
 # Nicolas Jara
 
-Data engineer and industrial engineer with a Master's in Data Intelligence (AI/ML) from the University of South Florida. I build data tools and AI assistants that people use in their daily work, and I also build my own tools when the paid ones don't do what I need.
+industrial engineer with a Master's in Data Intelligence (AI/ML) from the University of South Florida. I build data tools and AI assistants that people use in their daily work, and I also build my own tools when the paid ones don't do what I need.
 
-Most of my work is in private repositories because it involves company data or is only for my own use, so this page describes it without the code.
 
 ## Projects
 
@@ -17,7 +16,7 @@ I built this to analyze my training for free instead of paying for subscription 
 `JavaScript` `OAuth` `Strava API`
 
 ### BRASA: early warning for corn pests (2026)
-Winner of the South America regional stage of the BCG Platinion Hackathon, as part of a team. BRASA uses machine learning, satellite imagery and climate data. I led the demo.
+Winner of the South America regional stage of the BCG Platinion Hackathon, as part of a team. BRASA uses machine learning, satellite imagery and climate data.
 
 `Machine Learning` `Satellite Imagery`
 
@@ -61,9 +60,7 @@ Winner of the South America regional stage of the BCG Platinion Hackathon, as pa
 
 **Infrastructure and APIs:** Linux, VPS, Docker, FastAPI, WhatsApp API
 
-## Outside of code
 
-I've been doing triathlon for 16 years. I competed internationally as a junior, have finished seven Ironman 70.3 races, and qualified for the 70.3 World Championship.
 
 ## Contact
 
